@@ -37,6 +37,8 @@
     	</div>
         <div id="forgot">
         <a href="#" class="forgotlink"><span>Forgot your username or password?</span></a></div>
+	  
+	  
   </div>
 </div>
 <br clear="all" />
