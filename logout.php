@@ -19,6 +19,7 @@ window.location = "index.php"
 <p>redirect, harap tunggu 
 location!</p>
 
+  
 
 </body>
 </html>
